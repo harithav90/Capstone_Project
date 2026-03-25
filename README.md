@@ -15,3 +15,6 @@ This project includes test planning, test case design, execution, defect reporti
 
 4. Test Summary Report
      URL : https://docs.google.com/document/d/1LTD-gQGsgrRiGO5lISO7sNKoxoJUDSZaSl6XxYqf0jM/edit?usp=sharing
+
+5. Screen Recordings (module wise)
+   URL : https://drive.google.com/drive/folders/193orV7FEaWm4MgFMWSlwK9Vh128JE-tU?usp=sharing
