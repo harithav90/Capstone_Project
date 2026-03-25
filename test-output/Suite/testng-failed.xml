@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="tests.LoginTest">
+        <methods>
+          <include name="emptyFieldsTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="invalidPasswordTest"/>
+          <include name="invalidUsernameTest"/>
+          <include name="validLoginTest2"/>
+          <include name="sessionPersistenceTest"/>
+          <include name="validLoginTest3"/>
+          <include name="validLoginTest1"/>
+        </methods>
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.ProductTest">
+        <methods>
+          <include name="sortPriceHighToLow"/>
+          <include name="sortPriceLowToHigh"/>
+          <include name="setup"/>
+          <include name="verifyAddToCartFromProductList"/>
+          <include name="tearDown"/>
+          <include name="verifyProductDetails"/>
+          <include name="sortNameAscending"/>
+          <include name="sortNameDescending"/>
+          <include name="verifyProductListing"/>
+        </methods>
+      </class> <!-- tests.ProductTest -->
+      <class name="tests.CommonUITest">
+        <methods>
+          <include name="verifyNavigationLinks"/>
+          <include name="setup"/>
+          <include name="verifyHeaderAndFooter"/>
+          <include name="tearDown"/>
+          <include name="verifyResponsiveLayout"/>
+        </methods>
+      </class> <!-- tests.CommonUITest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
