@@ -4,17 +4,17 @@ The testing approach combines manual testing techniques (functional, system, usa
 This project includes test planning, test case design, execution, defect reporting, and automation of critical workflows, aiming to identify functional defects, UI issues, and improve overall application quality.
 
 **Deliverables**
-1. Test Plan Document
+**1. Test Plan Documen**t
    URL : https://docs.google.com/document/d/1gs08cInhQQfoDhl0tQFD3-zgs0HkApQFLO5rBKp6ZAE/edit?usp=sharing
 
-2. Test cases and Execution Report
+**2. Test cases and Execution Report**
     URL : https://docs.google.com/spreadsheets/d/1LIUdWQ1JV5izaKv0yPiRRI-Zsp-qX_A_n94_-5XBg00/edit?usp=sharing
 
-3. Bug Report
+**3. Bug Report**
     URL : https://docs.google.com/spreadsheets/d/1OVeLgCEQ5gIt0YgviIPAupT5W9lB4grrzNd3eQjkP7c/edit?usp=sharing
 
-4. Test Summary Report
+**4. Test Summary Report**
      URL : https://docs.google.com/document/d/1LTD-gQGsgrRiGO5lISO7sNKoxoJUDSZaSl6XxYqf0jM/edit?usp=sharing
 
-5. Screen Recordings (module wise)
+**5. Screen Recordings** (module wise)
    URL : https://drive.google.com/drive/folders/193orV7FEaWm4MgFMWSlwK9Vh128JE-tU?usp=sharing
